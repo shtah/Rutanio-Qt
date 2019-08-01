@@ -18,7 +18,7 @@ Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2019 The Rutanio developers</source>
         <translation>Все права защищены © 2009-2014 Разработчики Bitcoin
 Все права защищены © 2012-2014 Разработчики NovaCoin
-Все права защищены © 2014 Разработчики Rutanio</translation>
+Все права защищены © 2019 Разработчики Rutanio</translation>
     </message>
     <message>
         <location line="+15"/>

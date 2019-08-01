@@ -1,5 +1,5 @@
 TEMPLATE = app
-TARGET = rutanio-qt
+TARGET = Rutanio-qt
 VERSION = 1.0.0.1
 INCLUDEPATH += src src/json src/qt
 QT += network

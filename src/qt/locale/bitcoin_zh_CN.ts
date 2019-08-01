@@ -18,7 +18,7 @@ Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2019 The Rutanio developers</source>
         <translation>版权所有 © 2009-2014 比特币Bitcoin开发组
 版权所有 © 2012-2014 新星币Novacoin开发组
-版权所有 © 2014 黑币Rutanio开发组</translation>
+版权所有 © 2019 黑币Rutanio开发组</translation>
     </message>
     <message>
         <location line="+15"/>
