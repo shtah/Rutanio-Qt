@@ -12,7 +12,7 @@ https://github.com/rutanio/rutanio-qt/releases
 https://rutan.io
 
 ## The Rutanio Discord Community
-https://discord.gg/https://discord.gg/bqvXXJz
+https://discord.gg/bqvXXJz
 
 
 # Development process
