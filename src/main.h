@@ -59,7 +59,7 @@ inline bool IsProtocolV1RetargetingFixed(int nHeight) { return TestNet() || nHei
 inline bool IsProtocolV2(int nHeight) { return TestNet() || nHeight > 0; }
 inline bool IsProtocolV3(int64_t nTime) { return TestNet() || nTime > 1564350120; }
 
-inline bool IsDriftReduced(int64_t nTime) { return TestNet() || nTime > 1567425600; } // PoS - Mon Sep 02, 2019 12:00:00 GMT
+inline bool IsDriftReduced(int64_t nTime) { return TestNet() || nTime > 1567461600; } // PoS - Mon Sep 02, 2019 22:00:00 GMT
 
 inline int64_t TestingDrift(int64_t nTime) { return nTime + 128 * 60 * 60; }
 inline int64_t MainNetDrift(int64_t nTime) { return nTime + 15; }
