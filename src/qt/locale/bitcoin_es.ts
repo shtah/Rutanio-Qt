@@ -41,7 +41,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Haga doble clic para editar una etiqueta o dirección </translation>
+        <translation>Haga doble clic para editar una etiqueta o dirección</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -61,7 +61,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-43"/>
         <source>These are your Rutanio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de Rutanio para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <translation>Estas son las direcciones de Rutanio para recibir pagos. Es posible que desees dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -71,7 +71,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+7"/>
         <source>Show &amp;QR Code</source>
-        <translation>Enseñar &amp;QR Code</translation>
+        <translation>Mostrar &amp;Código QR Code</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -116,7 +116,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+248"/>
         <source>Export Address Book Data</source>
-        <translation>Exportar Data de Libro de Direcciones</translation>
+        <translation>Exportar Datos de Libro de Direcciones</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -187,27 +187,27 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+38"/>
         <source>Encrypt wallet</source>
-        <translation>Cifrar el monedero</translation>
+        <translation>Cifrar la billetera</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Esta operación requiere su contraseña para desbloquear el monedero.</translation>
+        <translation>Esta operación requiere su contraseña para desbloquear su billetera.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Desbloquear monedero</translation>
+        <translation>Desbloquear billetera</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Esta operación requiere su contraseña para descifrar el monedero.</translation>
+        <translation>Esta operación requiere su contraseña para descifrar su billetera.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Descifrar el monedero</translation>
+        <translation>Descifrar la billetera</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -217,12 +217,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Introduzca la contraseña anterior del monedero y la nueva. </translation>
+        <translation>Introduzca la contraseña anterior de la billetera y la nueva.</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Confirm wallet encryption</source>
-        <translation>Confirmar cifrado del monedero</translation>
+        <translation>Confirmar cifrado de la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -232,12 +232,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>¿Seguro que desea cifrar su monedero?</translation>
+        <translation>¿Seguro que desea cifrar su billetera?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Cualquier copia de seguridad que haya realizado previamente de su archivo de monedero debe reemplazarse con el nuevo archivo de monedero cifrado. Por razones de seguridad, las copias de seguridad previas del archivo de monedero no cifradas serán inservibles en cuanto comience a usar el nuevo monedero cifrado.</translation>
+        <translation>IMPORTANTE: Cualquier copia de seguridad que haya realizado previamente de su archivo de Billetera debe reemplazarse con el nuevo archivo de billetera cifrado. Por razones de seguridad, las copias de seguridad previas del archivo de Billetera no cifradas serán inservibles en cuanto comience a usar la nueva billetera cifrada.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -249,17 +249,18 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>Monedero cifrado</translation>
+        <translation>Billetera cifrada</translation>
     </message>
     <message>
         <location line="-140"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+                <translation> Ingrese la nueva contraseña de su billetera.&lt;br/&gt;Por favor, use una contraseña de &lt;b&gt;diez o mas caracteres aleatorios&lt;/b&gt;, u &lt;b&gt;ocho o más palabraswords&lt;/b&gt;.</translation>
+
     </message>
     <message>
         <location line="+82"/>
         <source>Rutanio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>Rutanio cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <translation>Rutanio cerrará para terminar el proceso de cifrado. Recuerde que el cifrado de su billetera no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -267,12 +268,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Ha fallado el cifrado del monedero</translation>
+        <translation>Ha fallado el cifrado de la billetera</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Ha fallado el cifrado del monedero debido a un error interno. El monedero no ha sido cifrado.</translation>
+        <translation>Ha fallado el cifrado de la billetera debido a un error interno. La billetera no ha sido cifrada.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -283,24 +284,24 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Ha fallado el desbloqueo del monedero</translation>
+        <translation>Ha fallado el desbloqueo de la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La contraseña introducida para descifrar el monedero es incorrecta.</translation>
+        <translation>La contraseña introducida para descifrar la billetera es incorrecta.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Ha fallado el descifrado del monedero</translation>
+        <translation>Ha fallado el descifrado de la billetera</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Se ha cambiado correctamente la contraseña del monedero.</translation>
+        <translation>Se ha cambiado correctamente la contraseña de la billetera.</translation>
     </message>
 </context>
 <context>
@@ -313,7 +314,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-64"/>
         <source>Show general overview of wallet</source>
-        <translation>Mostrar vista general del monedero</translation>
+        <translation>Mostrar vista general de la billetera</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -373,12 +374,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Cifrar monedero…</translation>
+        <translation>&amp;Cifrar Billetera…</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Guardar copia de seguridad del monedero...</translation>
+        <translation>&amp;Guardar copia de seguridad de la billetera...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -408,17 +409,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-13"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation>Cifrar o descifrar el monedero</translation>
+        <translation>Cifrar o descifrar la billetera</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Backup wallet to another location</source>
-        <translation>Copia de seguridad del monedero en otra ubicación</translation>
+        <translation>Copia de seguridad de la billetera en otra ubicación</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Cambiar la contraseña utilizada para el cifrado del monedero</translation>
+        <translation>Cambiar la contraseña utilizada para el cifrado de la billetera</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -444,7 +445,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-555"/>
         <source>Wallet</source>
-        <translation>Monedero</translation>
+        <translation>Billetera</translation>
     </message>
     <message>
         <location line="+193"/>
@@ -459,17 +460,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+8"/>
         <source>Unlock wallet</source>
-        <translation>Desbloquear el monedero</translation>
+        <translation>Desbloquear la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation>&amp;Bloquear monedero</translation>
+        <translation>&amp;Bloquear Billetera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation>Bloquear monedero</translation>
+        <translation>Bloquear Billetera</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -484,7 +485,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>A&amp;yuda</translation>
+        <translation>&amp;Ayuda</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -516,17 +517,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation>No esta &quot;Staking&quot; porque monedera está bloqueada</translation>
+        <translation>No esta &quot;Staking&quot; porque billetera está bloqueada</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is offline</source>
-        <translation>No esta &quot;Staking&quot; porque monedera está desconectada</translation>
+        <translation>No esta &quot;Staking&quot; porque billetera está desconectada</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation>No esta &quot;Staking&quot; porque monedera está sincronizando</translation>
+        <translation>No esta &quot;Staking&quot; porque billetera está sincronizando</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -536,22 +537,23 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-812"/>
         <source>&amp;Dashboard</source>
-        <translation type="unfinished"/>
+                <translation>Principal</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Receive</source>
-        <translation type="unfinished"/>
+                <translation>Recibir</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>Enviar</translation>
+
     </message>
     <message>
         <location line="+49"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation>&amp;Desbloquear Monedero...</translation>
+        <translation>&amp;Desbloquear Billetera...</translation>
     </message>
     <message>
         <location line="+277"/>
@@ -606,37 +608,37 @@ Dirección: %4
     <message>
         <location line="+9"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>La billetera no está cifrada</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>El monedero está &lt;b&gt;cifrado&lt;/b&gt; y actualmente &lt;b&gt;desbloqueado&lt;/b&gt;</translation>
+        <translation>La billetera está &lt;b&gt;cifrada&lt;/b&gt; y actualmente &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>El monedero está &lt;b&gt;cifrado&lt;/b&gt; y actualmente &lt;b&gt;bloqueado&lt;/b&gt;</translation>
+        <translation>La billetera está &lt;b&gt;cifrada&lt;/b&gt; y actualmente &lt;b&gt;bloqueada&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Backup Wallet</source>
-        <translation>Copia de Seguridad de Monedero</translation>
+        <translation>Copia de Seguridad de Billetera</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation>Data de Monedero (*.dat)</translation>
+        <translation> Datos de la billetera (*.dat)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation>Copia de Seguridad a fracasado</translation>
+        <translation>Copia de Seguridad ha fallado</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>Hubo un error al tratar de salvar los datos de su monedero a la nueva ubicación.</translation>
+        <translation>Hubo un error al tratar de salvar los datos de su Billetera a la nueva ubicación.</translation>
     </message>
     <message numerus="yes">
         <location line="+91"/>
@@ -657,7 +659,8 @@ Dirección: %4
     <message>
         <location line="-456"/>
         <source>Processed %1 blocks of transaction history.</source>
-        <translation type="unfinished"/>
+                <translation>Se ha procesado %1 bloques de la historia de transacciones.</translation>
+
     </message>
     <message numerus="yes">
         <location line="+27"/>
@@ -669,52 +672,54 @@ Dirección: %4
         <location line="-429"/>
         <location line="+6"/>
         <source>%n week(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+     
+<translation><<numerusform>%n semana</numerusform><numerusform></numerusform>semanas</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>%1 and %2</source>
-        <translation type="unfinished"/>
+        <translation >1 and %2</translation>
     </message>
     <message numerus="yes">
         <location line="+0"/>
         <source>%n year(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation ><numerusform>año</numerusform><numerusform></numerusform> años</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 behind</source>
-        <translation type="unfinished"/>
+        <translation>%1 atrás</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Last received block was generated %1 ago.</source>
-        <translation type="unfinished"/>
+                <translation> Último bloque fue generado hace %1 .</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transactions after this will not yet be visible.</source>
-        <translation type="unfinished"/>
+        <translation>Se ocultarán transacciones a continuación</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Se ocultarán transacciones a continuación</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Alerta</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+    <translation>Información</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>The transaction fee is %1, which is given to the nodes that process and validate your transaction. This supports and secures the network. Click Yes to accept this fee</source>
-        <translation type="unfinished"/>
+                <translation> La tasa a pagar es  %1, la cual se distribuye entre los nodos que contribuyen a procesar y validar esta transacción. Así apoyamos y aseguramos la red. Oprima Sí para aceptar esta transacción</translation>
+
     </message>
     <message>
         <location line="+324"/>
@@ -805,7 +810,7 @@ Dirección: %4
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>Cuantía</translation>
+        <translation>Monto</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -851,7 +856,7 @@ Dirección: %4
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>Copiar cuantía</translation>
+        <translation>Copiar monto</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -1063,7 +1068,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>No se pudo desbloquear el monedero.</translation>
+        <translation>No se pudo desbloquear la billetera.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1195,12 +1200,12 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-57"/>
         <source>Connect to the Rutanio network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
-        <translation type="unfinished"/>
+        <translation>Conectar a la red Rutanio vía SOCKS5 proxy (e.g. para conexiones vía Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS5 proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Conectar vía SOCKS5 proxy</translation>
     </message>
     <message>
         <location line="+90"/>
@@ -1265,17 +1270,18 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+7"/>
         <source>Whether to select the coin outputs randomly or with minimal coin age.</source>
-        <translation type="unfinished"/>
+                <translation>Seleccionar monedas aleatoriamente monedas o de acuerdo a su madurez</translation>
+
     </message>
     <message>
         <location line="+3"/>
         <source>Minimize weight consumption (experimental)</source>
-        <translation type="unfinished"/>
+        <translation>Minimizar consumo por peso en red (experimental)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Use black visual theme (requires restart)</source>
-        <translation type="unfinished"/>
+        <translation>Usar tema visual oscuro (requiere reinicio del cliente)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1341,7 +1347,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-113"/>
         <source>Wallet</source>
-        <translation>Monedero</translation>
+        <translation>Billetera</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1399,8 +1405,9 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start rutanio: click-to-pay handler</source>
-        <translation type="unfinished"/>
+        <source>Cannot start Rutanio: click-to-pay handler</source>
+                <translation> Rutanio no puede arrancar: operador de click-to-pay</translation>
+
     </message>
 </context>
 <context>
@@ -1438,7 +1445,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation>Error codificando URI en código QR​​.</translation>
+        <translation>Error codificando URI en código QR.</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1528,27 +1535,28 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+197"/>
         <source>&amp;Network Traffic</source>
-        <translation type="unfinished"/>
+        <translation>Tráfico de Red</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"/>
+                <translation>Limpiar</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Totals</source>
-        <translation type="unfinished"/>
+                <translation>Total</translation>
+
     </message>
     <message>
         <location line="+64"/>
         <source>In:</source>
-        <translation type="unfinished"/>
+        <translation>Entrante:</translation>
     </message>
     <message>
         <location line="+80"/>
         <source>Out:</source>
-        <translation type="unfinished"/>
+        <translation>Saliente:</translation>
     </message>
     <message>
         <location line="-383"/>
@@ -1628,37 +1636,39 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+127"/>
         <source>%1 B</source>
-        <translation type="unfinished"/>
+               <translation>%1 B</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 KB</source>
-        <translation type="unfinished"/>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 MB</source>
-        <translation type="unfinished"/>
+<translation>%1 MB</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 GB</source>
-        <translation type="unfinished"/>
+        <translation>%1 GB</translation>
+
     </message>
     <message>
         <location line="+7"/>
         <source>%1 m</source>
-        <translation type="unfinished"/>
+<translation>%1 m</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 h</source>
-        <translation type="unfinished"/>
+        <translation>%1 h</translation>
+
     </message>
     <message>
         <location line="+2"/>
         <source>%1 h %2 m</source>
-        <translation type="unfinished"/>
+        <translation>%1 h %2 m</translation>
     </message>
 </context>
 <context>
@@ -1714,7 +1724,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation>Cuantía:</translation>
+        <translation>Monto:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1804,7 +1814,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Copiar cuantía</translation>
+        <translation>Copiar monto</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1884,12 +1894,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+5"/>
         <source>Error: Transaction creation failed!</source>
-        <translation type="unfinished"/>
+        <translation> Error: Falló creación de la transacción!</translation>
+
     </message>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the tokens in your wallet were already spent, such as if you used a copy of wallet.dat and tokens were spent in the copy but not marked as spent here.</source>
-        <translation>Error: La transacción ha sido rechazada. Esto puede ocurrir si algunas de sus monedas en el monedero ya se gastaron, por ejemplo, si se usa una copia del wallet.dat y se gastaron las monedas de la copia pero no se han marcado como gastadas aquí.</translation>
+        <translation>Error: La transacción ha sido rechazada. Esto puede ocurrir si algunas de sus monedas en la billetera ya se gastaron, por ejemplo, si se usa una copia del wallet.dat y se gastaron las monedas de la copia pero no se han marcado como gastadas aquí.</translation>
     </message>
     <message>
         <location line="+247"/>
@@ -1927,7 +1938,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+34"/>
         <source>The address to send the payment to (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
-        <translation type="unfinished"/>
+     <translation> La dirección a la cual desea enviar Rutas (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -2107,7 +2118,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Se ha cancelado el desbloqueo del monedero. </translation>
+        <translation>Se ha cancelado el desbloqueo de la billetera.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2156,7 +2167,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../trafficgraphwidget.cpp" line="+75"/>
         <source>KB/s</source>
-        <translation type="unfinished"/>
+                <translation>Monitor de Tráfico</translation>
     </message>
 </context>
 <context>
@@ -2290,7 +2301,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+3"/>
         <source>Generated tokens must mature 51 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Las monedas generadas deben madurar 500bloques antes de que puedan gastarse. Cuando generaste este bloque, este fue transmitido a la red para ser añadido a la cadena de bloques. Si falla al introducirse en la cadena, su estado cambiará a &quot;no aceptado&quot; y no se podrá gastar. Esto ocasionalmente puede ocurrir si otro nodo genera un bloque a unos segundos que el tuyo.</translation>
+        <translation>Las monedas generadas deben madurar 51 bloques antes de que puedan gastarse. Cuando generaste este bloque, este fue transmitido a la red para ser añadido a la cadena de bloques. Si falla al introducirse en la cadena, su estado cambiará a &quot;no aceptado&quot; y no se podrá gastar. Esto ocasionalmente puede ocurrir si otro nodo genera un bloque a unos segundos que el tuyo.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2330,7 +2341,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message numerus="yes">
         <location line="-36"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform> Abierto por %n bloque mas </numerusform><numerusform> Abierto por %n bloques mas </numerusform></translation>
     </message>
     <message>
         <location line="+67"/>
@@ -2565,7 +2576,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Copiar cuantía</translation>
+        <translation>Copiar monto</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2704,7 +2715,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Especificar archivo de monedero (dentro del directorio de datos)</translation>
+        <translation>Especificar archivo de Billetera (dentro del directorio de datos)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2724,7 +2735,17 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.com
 </source>
-        <translation type="unfinished"/>
+        <translation>>%s, debe registrar un rpcpassword en el archivo de configuración:
+%s
+Se recomienda usar una contraseña aleatoria como a continuación:
+rpcuser=rutaniorpc
+rpcpassword=%s
+(no necesita recordar esta contraseña, es sólo un ejemplo)
+Su Usuario y Contraseña NO DEBEN ser iguales.
+Si el archive no existe, cree uno con permiso especial para escribir exclusivamente por propietario.
+También se recomienda usar alertnotify para que se le notifique de problemas;
+Por ej.: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@rutanio.com
+</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -2764,13 +2785,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
-        <translation type="unfinished"/>
-    </message>
+<translation> Solicitar direcciones de pares  vía DNS lookup, en caso de insuficientes direcciones (Predeterminado: 1 unless -connect)</translation> </message>
     <message>
         <location line="+3"/>
         <source>Always query for peer addresses via DNS lookup (default: 0)</source>
-        <translation type="unfinished"/>
-    </message>
+<translation> Solicitar siempre las direcciones de pares  via DNS lookup (Predeterminado:0)</translation>     </message>
     <message>
         <location line="+4"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
@@ -2958,32 +2977,32 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+42"/>
         <source>Error: Wallet locked, unable to create transaction!</source>
-        <translation type="unfinished"/>
+                <translation>La billetera está bloqueada. No es posible iniciar transacciones.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation type="unfinished"/>
+<translation> Error: Esta transacción requiere una tasa de cuando menos %s por su alto monto, complejidad o uso de fondos recién recibidos!.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: Transaction creation failed!</source>
-        <translation type="unfinished"/>
+<translation> Error: Hubo una falla al crear la transacción</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: The transaction was rejected! This might happen if some of the tokens in your wallet were already spent, such as if you used a copy of wallet.dat and tokens were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"/>
+        <translation> Error: La transacción fue rechazada!  Esto puede ocurrir si algunos de los tokens en su billetera ya fueron gastados, por ej. si usó una copia de su wallet.dat y los tokens aparecen gastados en la copia mas no aquí.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Alerta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Información</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3004,7 +3023,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="-47"/>
         <source>Connect through SOCKS5 proxy</source>
-        <translation type="unfinished"/>
+        <translation>Connectar vía proxy SOCKS5</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -3019,22 +3038,26 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+6"/>
         <source>Output debugging information (default: 0, supplying &lt;category&gt; is optional)</source>
-        <translation type="unfinished"/>
-    </message>
+     <translation>Información de depuración de salidas (predeterminado: 0, proveyendo &lt;categoría&gt; es opcional)</translation>   
+</message>
     <message>
         <location line="+2"/>
         <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
-        <translation type="unfinished"/>
+        <translation> Si &lt;categoría&gt; no es provista, exportar toda información de depuración
+</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;category&gt; can be:</source>
-        <translation type="unfinished"/>
+        <translation>&lt;categoría&gt; possible:
+</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly. This is intended for regression testing tools and app development.</source>
-        <translation type="unfinished"/>
+ <translation Enter regression test mode, which uses a special chain in which blocks can be solved instantly. This is intended for regression testing tools and app development
+</translation>
+
     </message>
     <message>
         <location line="+8"/>
@@ -3051,12 +3074,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Wait for RPC server to start</source>
-        <translation type="unfinished"/>
+        <translation>Aguarde a que arranque el servidor RPC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set the number of threads to service RPC calls (default: 4)</source>
-        <translation type="unfinished"/>
+        <translation>Determine el número de canales para atender las llamadas del RPC (predeterminado:4)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3066,7 +3089,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Ejecutar comando cuando una transacción del monedero cambia (%s en cmd se remplazará por TxID)</translation>
+        <translation>Ejecutar comando cuando una transacción de la billetera cambia (%s en cmd se remplazará por TxID)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3081,7 +3104,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Actualizar el monedero al último formato</translation>
+        <translation>Actualizar la billetera al último formato</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3092,7 +3115,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Volver a examinar la cadena de bloques en busca de transacciones del monedero perdidas</translation>
+        <translation>Volver a examinar la cadena de bloques en busca de transacciones de la billetera perdidas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3107,7 +3130,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Keep at most &lt;n&gt; MiB of unconnectable blocks in memory (default: %u)</source>
-        <translation type="unfinished"/>
+        <translation> Mantener un máximo de &lt;n&gt; MiB de bloques desconectados en memoria (predeterminado: %u)</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3130,32 +3153,35 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+5"/>
         <source>Error: Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation type="unfinished"/>
+<translation> Argumento  -socks no soportado. Ya no es posible establecer una versión de SOCKS , solo se admiten proxies SOCKS5</translation>
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Rutanio is shutting down.</source>
-        <translation type="unfinished"/>
+        <source>Initialization health check failed. Rutanio is shutting down.</source>
+        <translation>Ha fallado el chequeo inicial de salud del sistema. Cerrando cliente Rutanio</translation>
+
     </message>
     <message>
         <location line="+20"/>
         <source>Error loading block database</source>
-        <translation type="unfinished"/>
+        <translation>Ha ocurrido un error al cargar la base de datos de bloques</translation>
+
     </message>
     <message>
         <location line="+28"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>Error: Monedero desbloqueado sólo para hacer &quot;stake&quot;, no es posible crear una transacción.</translation>
+        <translation>Error: Billetera desbloqueada sólo para hacer &quot;stake&quot;, no es posible crear una transacción.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Error: Disk space is low!</source>
-        <translation type="unfinished"/>
+        <translation>Poco espacio de disco!</translation>
+
     </message>
     <message>
         <location line="+1"/>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation type="unfinished"/>
+       <translation>Este es un software experimental. Úselo a su propio riesgo – no se recomienda usar para minado o para aplicaciones comerciales críticas</translation>
     </message>
     <message>
         <location line="-168"/>
@@ -3166,7 +3192,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+104"/>
         <source>Wallet %s resides outside data directory %s.</source>
-        <translation>El monedero %s reside fuera del directorio de datos %s.</translation>
+        <translation>La billetera %s reside fuera del directorio de datos %s.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -3186,17 +3212,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="-10"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Error al cargar wallet.dat: el monedero está dañado</translation>
+        <translation>Error al cargar wallet.dat: la billetera está dañada</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Rutanio</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de Rutanio</translation>
+        <translation>Error cargando wallet.dat: La billetera requiere una nueva versión de Rutanio</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart Rutanio to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie Rutanio para completar</translation>
+        <translation>La billetera necesita ser reescrita: reinicie Rutanio para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3236,7 +3262,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>Cuantía no válida</translation>
+        <translation>Monto no válido</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3266,22 +3292,23 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+33"/>
         <source>Minimize weight consumption (experimental) (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation> Minimizar consumo por peso (experimental) (predeterminado: 0)</translation>   
     </message>
     <message>
         <location line="+8"/>
         <source>How many blocks to check at startup (default: 500, 0 = all)</source>
-        <translation type="unfinished"/>
+        <translation> Cantidad de bloques a chequear al inicio (predeterminado: 500, 0 = todos)</translation>   
     </message>
     <message>
         <location line="+14"/>
         <source>Acceptable ciphers (default: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</source>
-        <translation type="unfinished"/>
+        <translation> Cifrados aceptables (predeterminado: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</translation>   
+
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: Deprecated argument -debugnet ignored, use -debug=net</source>
-        <translation type="unfinished"/>
+        <translation>Alerta: Argumento no soportado -debugnet ignorado, use -debug=net</translation>   
     </message>
     <message>
         <location line="+8"/>
@@ -3291,22 +3318,23 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. Rutanio is probably already running.</source>
-        <translation type="unfinished"/>
+        <translation> No se puede asegurar el directorio de datos %s. Rutanio es probable ya esté corriendo.</translation>   
+
     </message>
     <message>
         <location line="+4"/>
         <source>Error initializing wallet database environment %s!</source>
-        <translation type="unfinished"/>
-    </message>
+        <translation>Error iniciando el ambiente de base de datos de la billetera%s!</translation>   
+ </message>
     <message>
         <location line="+15"/>
         <source>Loading wallet...</source>
-        <translation>Cargando monedero...</translation>
+        <translation>Cargando Billetera...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>No se puede rebajar el monedero</translation>
+        <translation>No se puede rebajar versión de la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
