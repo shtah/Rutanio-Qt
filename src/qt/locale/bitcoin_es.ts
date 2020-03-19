@@ -13,22 +13,30 @@
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2019 The Rutanio developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2019 The Rutanio developers</translation>
+ <source>
+Copyright © 2009-2014 The Bitcoin developers
+Copyright © 2011-2012 The PPCoin developers
+Copyright © 2013-2014 The NovaCoin developers
+Copyright © 2014-2015 The BlackCoin developers
+Copyright © 2016-2017 The Stratis Developers
+Copyright © 2018-2020 The Rutanio developers
+</source>
+ <translation>
+Copyright © 2009-2014 The Bitcoin developers
+Copyright © 2011-2012 The PPCoin developers
+Copyright © 2013-2014 The NovaCoin developers
+Copyright © 2014-2015 The BlackCoin developers
+Copyright © 2016-2017 The Stratis Developers
+Copyright © 2018-2020 The Rutanio developers
     </message>
     <message>
         <location line="+15"/>
         <source>
 This is experimental software.
-
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
-
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) and cryptographic software written by Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished"/>
+ <translation> Este es un software en etapa experimental. No se recomienda para uso comercial sin el debido soporte. Distribuido bajo licencia de software  MIT/X11. Para mayor información ver:  el archivo  COPYING o &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
+Este producto incluye software creado por el Proyecto OpenSSL Project para uso con el OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) y software criptográfico escrito por Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) y software UPnP escrito por Thomas Bernard.</translation>
     </message>
 </context>
 <context>
@@ -187,7 +195,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+38"/>
         <source>Encrypt wallet</source>
-        <translation>Cifrar la billetera</translation>
+        <translation>Encriptar la billetera</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -202,12 +210,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Esta operación requiere su contraseña para descifrar su billetera.</translation>
+        <translation>Esta operación requiere su contraseña para desencriptar su billetera.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Descifrar la billetera</translation>
+        <translation>Desencriptar la billetera</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -222,7 +230,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+45"/>
         <source>Confirm wallet encryption</source>
-        <translation>Confirmar cifrado de la billetera</translation>
+        <translation>Confirmar encripción de la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -232,12 +240,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>¿Seguro que desea cifrar su billetera?</translation>
+        <translation>¿Seguro que desea encriptar su billetera?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Cualquier copia de seguridad que haya realizado previamente de su archivo de Billetera debe reemplazarse con el nuevo archivo de billetera cifrado. Por razones de seguridad, las copias de seguridad previas del archivo de Billetera no cifradas serán inservibles en cuanto comience a usar la nueva billetera cifrada.</translation>
+        <translation>IMPORTANTE: Cualquier copia de seguridad que haya realizado previamente de su archivo de Billetera debe reemplazarse con el nuevo archivo de billetera encriptado. Por razones de seguridad, las copias de seguridad previas del archivo de Billetera no encriptada serán inservibles en cuanto comience a usar la nueva billetera encriptada.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -249,18 +257,18 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>Billetera cifrada</translation>
+        <translation>Billetera encriptada</translation>
     </message>
     <message>
         <location line="-140"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-                <translation> Ingrese la nueva contraseña de su billetera.&lt;br/&gt;Por favor, use una contraseña de &lt;b&gt;diez o mas caracteres aleatorios&lt;/b&gt;, u &lt;b&gt;ocho o más palabraswords&lt;/b&gt;.</translation>
+ <translation> Ingrese la nueva contraseña de su billetera.&lt;br/&gt;Por favor, use una contraseña de &lt;b&gt;diez o mas caracteres aleatorios&lt;/b&gt;, u &lt;b&gt;ocho o más palabras&lt;/b&gt;.</translation>
 
     </message>
     <message>
         <location line="+82"/>
         <source>Rutanio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>Rutanio cerrará para terminar el proceso de cifrado. Recuerde que el cifrado de su billetera no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <translation>Rutanio cerrará para terminar el proceso de encripción. Recuerde que el cifrado de su billetera no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -268,12 +276,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Ha fallado el cifrado de la billetera</translation>
+        <translation>Ha fallado la encripción  de la billetera</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Ha fallado el cifrado de la billetera debido a un error interno. La billetera no ha sido cifrada.</translation>
+        <translation>Ha fallado la encripción de la billetera debido a un error interno. La billetera no ha sido cifrada.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -296,7 +304,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Ha fallado el descifrado de la billetera</translation>
+        <translation>Ha fallado el desencriptado de la billetera</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -374,7 +382,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Cifrar Billetera…</translation>
+        <translation>&amp;Encriptar Billetera…</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -394,7 +402,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-55"/>
         <source>Send tokens to a Rutanio address</source>
-        <translation>Enviar monedas a una dirección de Rutanio</translation>
+        <translation>Enviar tokens a una dirección de Rutanio</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -532,7 +540,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature tokens</source>
-        <translation>No esta &quot;Staking&quot; ya que no tiene monedas maduras</translation>
+        <translation>No esta &quot;Staking&quot; ya que no tiene tokens que hayan madurado todavía</translation>
     </message>
     <message>
         <location line="-812"/>
@@ -950,46 +958,22 @@ Dirección: %4
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation>Esta etiqueta se convierte en rojo, si el tamaño de la transacción es mayor que 10000 bytes.
-
-Esto significa que se requiere una cuota de al menos el %1 por kb.
-
-Puede variar + / - 1 Byte por entrada.</translation>
+        <translation>Esta etiqueta se convierte en rojo, si el tamaño de la transacción es mayor que 10000 bytes. Esto significa que se requiere una cuota de al menos el %1 por kb. Puede variar + / - 1 Byte por entrada.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Transactions with higher priority get more likely into a block.
-
-This label turns red, if the priority is smaller than &quot;medium&quot;.
-
- This means a fee of at least %1 per kb is required.</source>
-        <translation>Las transacciones con mayor prioridad son más probables en entrar hacia un bloque. 
-
-Esta etiqueta se convierte en rojo, si la prioridad es menor que &quot;medium&quot;.
-
-Esto significa que se requiere una cuota de al menos el %1 por kb.</translation>
+        <source>Transactions with higher priority get more likely into a block. This label turns red, if the priority is smaller than &quot;medium&quot;. This means a fee of at least %1 per kb is required.</source>
+    <translation>Las transacciones con mayor prioridad son más probables en entrar hacia un bloque. Esta etiqueta se convierte en rojo, si la prioridad es menor que &quot;medium&quot;. Esto significa que se requiere una cuota de al menos el %1 por kb.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>This label turns red, if any recipient receives an amount smaller than %1.
-
- This means a fee of at least %2 is required. 
-
- Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation>Esta etiqueta se convierte en rojo, si cualquier recipiente recibe una cantidad menor que %1.
-
-Esto significa que se requiere una cuota de al menos %2.
-
-Las cantidades inferiores a 0.546 veces la cuota mínima del relé se muestran en forma de DUST.</translation>
+        <source>This label turns red, if any recipient receives an amount smaller than %1. This means a fee of at least %2 is required. Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
+    <translation>Esta etiqueta se convierte en rojo, si cualquier recipiente recibe una cantidad menor que %1. Esto significa que se requiere una cuota de al menos %2. Las cantidades inferiores a 0.546 veces la cuota mínima del relé se muestran en forma de DUST.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>This label turns red, if the change is smaller than %1.
-
- This means a fee of at least %2 is required.</source>
-        <translation>Esta etiqueta se convierte en rojo, si el cambio es menor que %1.
-
-Esto significa que se requiere una cuota de al menos %2.</translation>
+        <source>This label turns red, if the change is smaller than %1. This means a fee of at least %2 is required.</source>
+        <translation>Esta etiqueta se convierte en rojo, si el cambio es menor que %1. Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+36"/>
