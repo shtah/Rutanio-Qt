@@ -4,19 +4,32 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About Rutanio</source>
-        <translation type="unfinished"/>
+        <translation>Acerca de Rutanio</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;Rutanio&lt;/b&gt; version</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Rutanio&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2019 The Rutanio developers</source>
-        <translation type="unfinished"/>
+        <source>
+Copyright © 2009-2014 The Bitcoin developers
+Copyright © 2011-2012 The PPCoin developers
+Copyright © 2013-2014 The NovaCoin developers
+Copyright © 2014-2015 The Blackcoin developers
+Copyright © 2016-2017 The Stratis developers
+Copyright © 2018-2020 The Fluid Chains developers
+Copyright © 2018-2020 The Rutanio developers
+        </source>
+        <translation>Copyright © 2009-2014 The Bitcoin developers
+Copyright © 2011-2012 The PPCoin developers
+Copyright © 2013-2014 The NovaCoin developers
+Copyright © 2014-2015 The Blackcoin developers
+Copyright © 2016-2017 The Stratis developers
+Copyright © 2018-2020 The Fluid Chains developers
+Copyright © 2018-2020 The Rutanio developers
+        </translation>
     </message>
     <message>
         <location line="+15"/>
@@ -25,8 +38,11 @@ This is experimental software.
 
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
 
-This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) and cryptographic software written by Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished"/>
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot;&gt;https://www.openssl.org/&lt;/a&gt;) and cryptographic software written by Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) and UPnP software written by Thomas Bernard.
+        </source>
+        <translation>Este es un software en etapa experimental. No se recomienda para uso comercial sin el debido soporte. Distribuido bajo licencia de software  MIT/X11. Para mayor información ver el archivo COPYING o &lt;a href=&quot;http://www.opensource.org/licenses/mit-license.php&quot; style=&quot;color: #ff4864;&quot;&gt;http://www.opensource.org/licenses/mit-license.php&lt;/a&gt;.
+        Este producto incluye software creado por el Proyecto OpenSSL para uso con el OpenSSL Toolkit (&lt;a href=&quot;https://www.openssl.org/&quot; style=&quot;color: #ff4864;&quot;&gt;https://www.openssl.org/&lt;/a&gt;) y software criptográfico escrito por Eric Young (&lt;a href=&quot;mailto:eay@cryptsoft.com&quot; style=&quot;color: #ff4864;&quot;&gt;eay@cryptsoft.com&lt;/a&gt;) y software UPnP escrito por Thomas Bernard.
+        </translation>
     </message>
 </context>
 <context>
@@ -34,12 +50,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"/>
+        <translation>Libreta de Direcciones</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Haga doble clic para editar una dirección o etiqueta</translation>
+        <translation>Haga doble clic para editar una etiqueta o dirección</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -54,12 +70,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-7"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nueva Dirección</translation>
     </message>
     <message>
         <location line="-43"/>
         <source>These are your Rutanio addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation type="unfinished"/>
+        <translation>Estas son las direcciones de Rutanio para recibir pagos. Es posible que desees dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -69,17 +85,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+7"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar &amp;Código QR Code</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Sign a message to prove you own a Rutanio address</source>
-        <translation type="unfinished"/>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de Rutanio</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Firmar &amp;Mensaje</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -89,12 +105,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-10"/>
         <source>Verify a message to ensure it was signed with a specified Rutanio address</source>
-        <translation type="unfinished"/>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Rutanio</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Verifique Mensaje</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -114,7 +130,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+248"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>Exportar Datos de Libro de Direcciones</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -124,12 +140,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Error exportando</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>No se pudo escribir en el archivo %1</translation>
     </message>
 </context>
 <context>
@@ -175,37 +191,37 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+33"/>
         <source>Select this option to allocate non-reserved tokens to earn staking rewards. This unlocks tokens ONLY for staking purposes, not outbound transfers.</source>
-        <translation type="unfinished"/>
+        <translation>Esta opción habilita el Staking usando los tokens no reservados. Los tokens estarán desbloqueados solo para Staking y no para transferencias.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>For staking only</source>
-        <translation type="unfinished"/>
+        <translation>Para &quot;Staking&quot; solamente</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+38"/>
         <source>Encrypt wallet</source>
-        <translation>Cifrar la cartera</translation>
+        <translation>Encriptar la billetera</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Esta operación requiere su contraseña para desbloquear la cartera</translation>
+        <translation>Esta operación requiere su contraseña para desbloquear su billetera.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Desbloquear cartera</translation>
+        <translation>Desbloquear billetera</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Esta operación requiere su contraseña para descifrar la cartera.</translation>
+        <translation>Esta operación requiere su contraseña para desencriptar su billetera.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Descifrar la certare</translation>
+        <translation>Desencriptar la billetera</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -215,27 +231,27 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Introduzca la contraseña anterior de la cartera y la nueva. </translation>
+        <translation>Introduzca la contraseña anterior de la billetera y la nueva.</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Confirm wallet encryption</source>
-        <translation>Confirmar cifrado de la cartera</translation>
+        <translation>Confirmar encripción de la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation type="unfinished"/>
+        <translation>Advertencia: Si encripta su cartera y pierde su frase de contraseña, puede &lt;b&gt;PERDER TODAS SUS MONEDAS&lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>¿Seguro que desea cifrar su monedero?</translation>
+        <translation>¿Seguro que desea encriptar su billetera?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Cualquier copia de seguridad que haya realizado previamente de su archivo de monedero debe reemplazarse con el nuevo archivo de monedero cifrado. Por razones de seguridad, las copias de seguridad previas del archivo de monedero no cifradas serán inservibles en cuanto comience a usar el nuevo monedero cifrado.</translation>
+        <translation>IMPORTANTE: Cualquier copia de seguridad que haya realizado previamente de su archivo de Billetera debe reemplazarse con el nuevo archivo de billetera encriptado. Por razones de seguridad, las copias de seguridad previas del archivo de Billetera no encriptada serán inservibles en cuanto comience a usar la nueva billetera encriptada.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -247,17 +263,17 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>Monedero cifrado</translation>
+        <translation>Billetera encriptada</translation>
     </message>
     <message>
         <location line="-140"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation> Ingrese la nueva contraseña de su billetera.&lt;br/&gt;Por favor, use una contraseña de &lt;b&gt;diez o mas caracteres aleatorios&lt;/b&gt;, u &lt;b&gt;ocho o más palabras&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+82"/>
         <source>Rutanio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"/>
+        <translation>Rutanio cerrará para terminar el proceso de encripción. Recuerde que el cifrado de su billetera no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -265,12 +281,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Ha fallado el cifrado del monedero</translation>
+        <translation>Ha fallado la encripción  de la billetera</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Ha fallado el cifrado del monedero debido a un error interno. El monedero no ha sido cifrado.</translation>
+        <translation>Ha fallado la encripción de la billetera debido a un error interno. La billetera no ha sido cifrada.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -281,24 +297,24 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Ha fallado el desbloqueo del monedero</translation>
+        <translation>Ha fallado el desbloqueo de la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La contraseña introducida para descifrar el monedero es incorrecta.</translation>
+        <translation>La contraseña introducida para descifrar la billetera es incorrecta.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Ha fallado el descifrado del monedero</translation>
+        <translation>Ha fallado el desencriptado de la billetera</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Se ha cambiado correctamente la contraseña del monedero.</translation>
+        <translation>Se ha cambiado correctamente la contraseña de la billetera.</translation>
     </message>
 </context>
 <context>
@@ -311,7 +327,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-64"/>
         <source>Show general overview of wallet</source>
-        <translation>Mostrar vista general del monedero</translation>
+        <translation>Mostrar vista general de la billetera</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -326,17 +342,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+5"/>
         <source>&amp;Address Book</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Libreta de Direcciones</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"/>
+        <translation>Editar la lista de direcciones y etiquetas almacenadas</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar la lista de direcciones para recibir pagos</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -351,7 +367,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Show information about Rutanio</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar información sobre Rutanio</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -371,12 +387,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Cifrar monedero…</translation>
+        <translation>&amp;Encriptar Billetera…</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>Copia de &amp;respaldo del monedero...</translation>
+        <translation>&amp;Guardar copia de seguridad de la billetera...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -386,37 +402,37 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+9"/>
         <source>&amp;Export...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Exportar...</translation>
     </message>
     <message>
         <location line="-55"/>
         <source>Send tokens to a Rutanio address</source>
-        <translation type="unfinished"/>
+        <translation>Enviar tokens a una dirección de Rutanio</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>Modify configuration options for Rutanio</source>
-        <translation type="unfinished"/>
+        <translation>Modificar las opciones de configuración para Rutanio</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Export the data in the current tab to a file</source>
-        <translation type="unfinished"/>
+        <translation>Exportar los datos en la ficha actual a un archivo</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Cifrar o descifrar la billetera</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Backup wallet to another location</source>
-        <translation>Copia de seguridad del monedero en otra ubicación</translation>
+        <translation>Copia de seguridad de la billetera en otra ubicación</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Cambiar la contraseña utilizada para el cifrado del monedero</translation>
+        <translation>Cambiar la contraseña utilizada para el cifrado de la billetera</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -437,37 +453,37 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-214"/>
         <location line="+555"/>
         <source>Rutanio</source>
-        <translation type="unfinished"/>
+        <translation>Rutanio</translation>
     </message>
     <message>
         <location line="-555"/>
         <source>Wallet</source>
-        <translation>Monedero</translation>
+        <translation>Billetera</translation>
     </message>
     <message>
         <location line="+193"/>
         <source>&amp;About Rutanio</source>
-        <translation type="unfinished"/>
+        <translation>Acerca de Rutanio</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Show / Hide</source>
-        <translation>Mo&amp;strar/ocultar</translation>
+        <translation>&amp;Mostrar / Ocultar</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Desbloquear la billetera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bloquear Billetera</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Bloquear Billetera</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -482,7 +498,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>A&amp;yuda</translation>
+        <translation>&amp;Ayuda</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -499,57 +515,57 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+0"/>
         <location line="+58"/>
         <source>Rutanio client</source>
-        <translation type="unfinished"/>
+        <translation>Cliente Rutanio</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
         <source>%n active connection(s) to Rutanio network</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n conexión activa a la red Rutanio</numerusform><numerusform>%n conexiones activas a la red Rutanio</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation type="unfinished"/>
+        <translation>Staking.&lt;br&gt;Su contribución es %1&lt;br&gt;Contribución de la red es %2&lt;br&gt;Tiempo esperado para ganar la recompensa es %3</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation type="unfinished"/>
+        <translation>No esta &quot;Staking&quot; porque billetera está bloqueada</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is offline</source>
-        <translation type="unfinished"/>
+        <translation>No esta &quot;Staking&quot; porque billetera está desconectada</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation type="unfinished"/>
+        <translation>No esta &quot;Staking&quot; porque billetera está sincronizando</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature tokens</source>
-        <translation type="unfinished"/>
+        <translation>No esta &quot;Staking&quot; ya que no tiene tokens que hayan madurado todavía</translation>
     </message>
     <message>
         <location line="-812"/>
         <source>&amp;Dashboard</source>
-        <translation type="unfinished"/>
+        <translation>Principal</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Receive</source>
-        <translation type="unfinished"/>
+        <translation>Recibir</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Desbloquear Billetera...</translation>
     </message>
     <message>
         <location line="+277"/>
@@ -564,7 +580,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+113"/>
         <source>Confirm transaction fee</source>
-        <translation type="unfinished"/>
+        <translation>Confirme tarifa de transacción</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -593,58 +609,58 @@ Dirección: %4
         <location line="+100"/>
         <location line="+15"/>
         <source>URI handling</source>
-        <translation type="unfinished"/>
+        <translation>Manejar URI</translation>
     </message>
     <message>
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid Rutanio address or malformed URI parameters.</source>
-        <translation type="unfinished"/>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de Rutanio no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>La billetera no está cifrada</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>El monedero está &lt;b&gt;cifrado&lt;/b&gt; y actualmente &lt;b&gt;desbloqueado&lt;/b&gt;</translation>
+        <translation>La billetera está &lt;b&gt;cifrada&lt;/b&gt; y actualmente &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>El monedero está &lt;b&gt;cifrado&lt;/b&gt; y actualmente &lt;b&gt;bloqueado&lt;/b&gt;</translation>
+        <translation>La billetera está &lt;b&gt;cifrada&lt;/b&gt; y actualmente &lt;b&gt;bloqueada&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Backup Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Copia de Seguridad de Billetera</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation type="unfinished"/>
+        <translation> Datos de la billetera (*.dat)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation type="unfinished"/>
+        <translation>Copia de Seguridad ha fallado</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation type="unfinished"/>
+        <translation>Hubo un error al tratar de salvar los datos de su Billetera a la nueva ubicación.</translation>
     </message>
     <message numerus="yes">
         <location line="+91"/>
         <source>%n second(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n segundo</numerusform><numerusform>%n segundos</numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n minute(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n minuto</numerusform><numerusform>%n minutos</numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="-429"/>
@@ -655,7 +671,7 @@ Dirección: %4
     <message>
         <location line="-456"/>
         <source>Processed %1 blocks of transaction history.</source>
-        <translation type="unfinished"/>
+        <translation>Se ha procesado %1 bloques de la historia de transacciones.</translation>
     </message>
     <message numerus="yes">
         <location line="+27"/>
@@ -666,63 +682,73 @@ Dirección: %4
     <message numerus="yes">
         <location line="-429"/>
         <location line="+6"/>
-        <source>%n week(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <source>%n week(s)</source>     
+        <translation><numerusform>%n semana</numerusform><numerusform>semanas</numerusform></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>%1 and %2</source>
-        <translation type="unfinished"/>
+        <translation >1 and %2</translation>
     </message>
     <message numerus="yes">
         <location line="+0"/>
         <source>%n year(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>año</numerusform><numerusform> años</numerusform></translation>
+    </message> 
+    <message>
+        <location line="+1"/>
+        <source>Importing blocks...</source>
+        <translation>Importando bloques...</translation>
+    </message>
+    <message>
+        <location line="+1"/>
+        <source>Synchronizing with network...</source>
+        <translation>Sincronizando con la red...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 behind</source>
-        <translation type="unfinished"/>
+        <translation>%1 atrás</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Last received block was generated %1 ago.</source>
-        <translation type="unfinished"/>
+        <translation> Último bloque fue generado hace %1 .</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transactions after this will not yet be visible.</source>
-        <translation type="unfinished"/>
+        <translation>Se ocultarán transacciones a continuación</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Se ocultarán transacciones a continuación</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Alerta</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Información</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>The transaction fee is %1, which is given to the nodes that process and validate your transaction. This supports and secures the network. Click Yes to accept this fee</source>
-        <translation type="unfinished"/>
+        <translation> La tasa a pagar es  %1, la cual se distribuye entre los nodos que contribuyen a procesar y validar esta transacción. Así apoyamos y aseguramos la red. Oprima Sí para aceptar esta transacción</translation>
     </message>
     <message>
         <location line="+324"/>
         <source>Not staking</source>
-        <translation type="unfinished"/>
+        <translation>No estás &quot;Staking&quot;</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
         <source>A fatal error occurred. Rutanio can no longer continue safely and will quit.</source>
-        <translation type="unfinished"/>
+        <translation>Se ha producido un error fatal. Rutanio ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -738,7 +764,7 @@ Dirección: %4
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation type="unfinished"/>
+        <translation>Control de Moneda</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -753,7 +779,7 @@ Dirección: %4
     <message>
         <location line="+48"/>
         <source>Amount:</source>
-        <translation>Cuantía:</translation>
+        <translation>Cantidad:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -788,12 +814,12 @@ Dirección: %4
     <message>
         <location line="+69"/>
         <source>(un)select all</source>
-        <translation>(des)selecciona todos</translation>
+        <translation>(des)marcar todos</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation>Modo arbol</translation>
+        <translation>Modo árbol</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -803,12 +829,12 @@ Dirección: %4
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>Cantidad</translation>
+        <translation>Monto</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Etiqueta</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -849,7 +875,7 @@ Dirección: %4
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>Copiar cantidad</translation>
+        <translation>Copiar monto</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -929,7 +955,7 @@ Dirección: %4
     <message>
         <location line="+140"/>
         <source>DUST</source>
-        <translation type="unfinished"/>
+        <translation>DUST</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -943,32 +969,22 @@ Dirección: %4
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation type="unfinished"/>
+        <translation>Esta etiqueta se convierte en rojo, si el tamaño de la transacción es mayor que 10000 bytes. Esto significa que se requiere una cuota de al menos el %1 por kb. Puede variar + / - 1 Byte por entrada.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Transactions with higher priority get more likely into a block.
-
-This label turns red, if the priority is smaller than &quot;medium&quot;.
-
- This means a fee of at least %1 per kb is required.</source>
-        <translation type="unfinished"/>
+        <source>Transactions with higher priority get more likely into a block. This label turns red, if the priority is smaller than &quot;medium&quot;. This means a fee of at least %1 per kb is required.</source>
+        <translation>Las transacciones con mayor prioridad son más probables en entrar hacia un bloque. Esta etiqueta se convierte en rojo, si la prioridad es menor que &quot;medium&quot;. Esto significa que se requiere una cuota de al menos el %1 por kb.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>This label turns red, if any recipient receives an amount smaller than %1.
-
- This means a fee of at least %2 is required. 
-
- Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation type="unfinished"/>
+        <source>This label turns red, if any recipient receives an amount smaller than %1. This means a fee of at least %2 is required. Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
+        <translation>Esta etiqueta se convierte en rojo, si cualquier recipiente recibe una cantidad menor que %1. Esto significa que se requiere una cuota de al menos %2. Las cantidades inferiores a 0.546 veces la cuota mínima del relé se muestran en forma de DUST.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>This label turns red, if the change is smaller than %1.
-
- This means a fee of at least %2 is required.</source>
-        <translation type="unfinished"/>
+        <source>This label turns red, if the change is smaller than %1. This means a fee of at least %2 is required.</source>
+        <translation>Esta etiqueta se convierte en rojo, si el cambio es menor que %1. Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -1002,7 +1018,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation type="unfinished"/>
+        <translation>La etiqueta asociada con esta entrada de la libreta de direcciones</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1012,7 +1028,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation type="unfinished"/>
+        <translation>La dirección asociada con esta entrada de la libreta de direcciones. Esto sólo puede ser modificada para direcciones de envío.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+21"/>
@@ -1042,12 +1058,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Rutanio address.</source>
-        <translation type="unfinished"/>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de Rutanio.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>No se pudo desbloquear el monedero.</translation>
+        <translation>No se pudo desbloquear la billetera.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1061,42 +1077,42 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
         <source>Rutanio-Qt</source>
-        <translation type="unfinished"/>
+        <translation>Rutanio-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>version</source>
-        <translation type="unfinished"/>
+        <translation>Versión</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation type="unfinished"/>
+        <translation>Uso:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>command-line options</source>
-        <translation type="unfinished"/>
+        <translation>opciones de líneas de comandos</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation type="unfinished"/>
+        <translation>opciones del interfaz de usuario</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation type="unfinished"/>
+        <translation>Defina el idioma, por ejemplo &quot;de_DE&quot; (predeterminado: región del sistema)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar minimizado</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar pantalla de bienvenida al iniciar (predeterminado: 1)</translation>
     </message>
 </context>
 <context>
@@ -1114,7 +1130,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation type="unfinished"/>
+        <translation>Tarifa de transacción opcional por kB que ayuda a asegurarse de que sus transacciones se procesan rápidamente. La mayoría de las transacciones son 1 kB. Cuota de 0.01 recomendada.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1124,22 +1140,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation type="unfinished"/>
+        <translation>Cantidad reservada no participa en el &quot;Staking&quot; y por lo tanto se puede gastar en cualquier momento.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Reserve</source>
-        <translation type="unfinished"/>
+        <translation>Reserva</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Automatically start Rutanio after logging in to the system.</source>
-        <translation type="unfinished"/>
+        <translation>Iniciar Rutanio automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Rutanio on system login</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Iniciar Rutanio al inicio del sistema</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1149,7 +1165,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Automatically open the Rutanio client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation type="unfinished"/>
+        <translation>Abrir automáticamente el puerto de cliente Rutanio en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1164,7 +1180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation type="unfinished"/>
+        <translation>Dirección IP del proxy (e.g. 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,12 +1195,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-57"/>
         <source>Connect to the Rutanio network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
-        <translation type="unfinished"/>
+        <translation>Conectar a la red Rutanio vía SOCKS5 proxy (e.g. para conexiones vía Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS5 proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Conectar vía SOCKS5 proxy</translation>
     </message>
     <message>
         <location line="+90"/>
@@ -1224,7 +1240,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Rutanio.</source>
-        <translation type="unfinished"/>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar Rutanio.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1234,32 +1250,32 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Elegir la subdivisión predeterminada para mostrar cantidades en la interfaz y cuando se envían monedas.</translation>
+        <translation>Elegir la subdivisión predeterminada para mostrar cantidades en la interfaz y cuando se envían Rutanios.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Whether to show coin control features or not.</source>
-        <translation>Mostrar o no características de control de moneda</translation>
+        <translation>Mostrar o no funcionalidad de Coin Control</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar moneda y Coin Control (expertos solamente!)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Whether to select the coin outputs randomly or with minimal coin age.</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar monedas aleatoriamente monedas o de acuerdo a su madurez</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Minimize weight consumption (experimental)</source>
-        <translation type="unfinished"/>
+        <translation>Minimizar consumo por peso en red (experimental)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Use black visual theme (requires restart)</source>
-        <translation type="unfinished"/>
+        <translation>Usar tema visual oscuro (requiere reinicio del cliente)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1274,7 +1290,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aplicar</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+47"/>
@@ -1285,13 +1301,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+148"/>
         <location line="+9"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Advertencia</translation>
     </message>
     <message>
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting Rutanio.</source>
-        <translation type="unfinished"/>
+        <translation>Esta configuración se aplicará después de reiniciar Rutanio.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1310,32 +1326,32 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+46"/>
         <location line="+247"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Rutanio network after a connection is established, but this process has not completed yet.</source>
-        <translation type="unfinished"/>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red Rutanio después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-173"/>
         <source>Stake:</source>
-        <translation type="unfinished"/>
+        <translation>Stake:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Unconfirmed:</source>
-        <translation>No confirmado(s):</translation>
+        <translation>Sin confirmar:</translation>
     </message>
     <message>
         <location line="-113"/>
         <source>Wallet</source>
-        <translation>Monedero</translation>
+        <translation>Billetera</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Spendable:</source>
-        <translation type="unfinished"/>
+        <translation>Disponible:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation>Su balance actual gastable</translation>
+        <translation>Su actual balance disponible</translation>
     </message>
     <message>
         <location line="+80"/>
@@ -1365,12 +1381,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-118"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation type="unfinished"/>
+        <translation>Total de transacciones que aún no se han confirmado, y aún no cuentan para el balance actual</translation>
     </message>
     <message>
         <location line="-32"/>
         <source>Total of tokens that was staked, and do not yet count toward the current balance</source>
-        <translation type="unfinished"/>
+        <translation>Total de las monedas que fueron &quot;Staked&quot;, y aún no cuentan para el balance actual</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
@@ -1383,8 +1399,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start rutanio: click-to-pay handler</source>
-        <translation type="unfinished"/>
+        <source>Cannot start Rutanio: click-to-pay handler</source>
+        <translation> Rutanio no puede arrancar: operador de click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -1392,57 +1408,57 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/qrcodedialog.ui" line="+14"/>
         <source>QR Code Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Código Diálogo QR</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation type="unfinished"/>
+        <translation>Solicitar Pago</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Cantidad:</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>Etiqueta:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Message:</source>
-        <translation type="unfinished"/>
+        <translation>Mensaje:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Guardar como....</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation type="unfinished"/>
+        <translation>Error codificando URI en código QR.</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation type="unfinished"/>
+        <translation>La cantidad introducida es inválida, compruebe por favor.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation type="unfinished"/>
+        <translation>La URI es demasiado larga, pruebe a acortar el texto para la etiqueta / mensaje</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Save QR Code</source>
-        <translation type="unfinished"/>
+        <translation>Guardar código QR</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>PNG Images (*.png)</source>
-        <translation type="unfinished"/>
+        <translation>Imagenes PNG (*.png)</translation>
     </message>
 </context>
 <context>
@@ -1497,7 +1513,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation type="unfinished"/>
+        <translation>En testnet</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1512,27 +1528,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+197"/>
         <source>&amp;Network Traffic</source>
-        <translation type="unfinished"/>
+        <translation>Tráfico de Red</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&amp;Clear</source>
-        <translation type="unfinished"/>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Totals</source>
-        <translation type="unfinished"/>
+        <translation>Total</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>In:</source>
-        <translation type="unfinished"/>
+        <translation>Entrante:</translation>
     </message>
     <message>
         <location line="+80"/>
         <source>Out:</source>
-        <translation type="unfinished"/>
+        <translation>Saliente:</translation>
     </message>
     <message>
         <location line="-383"/>
@@ -1547,17 +1563,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation type="unfinished"/>
+        <translation>Opciones de línea de comandos</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show the Rutanio-Qt help message to get a list with possible Rutanio command-line options.</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar el mensaje de ayuda de Rutanio-Qt para obtener una lista con las posibles opciones de línea de comandos para Rutanio.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Show</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mostrar</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1572,12 +1588,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-104"/>
         <source>Rutanio - Debug window</source>
-        <translation type="unfinished"/>
+        <translation>Rutanio - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Rutanio Core</source>
-        <translation type="unfinished"/>
+        <translation>Núcleo Rutanio</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1587,7 +1603,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Open the Rutanio debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation type="unfinished"/>
+        <translation>Abre el archivo de registro de Rutanio del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,12 +1613,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
         <source>Welcome to the Rutanio RPC console.</source>
-        <translation type="unfinished"/>
+        <translation>Bienvenido a la consola RPC de Rutanio</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Use las flechas arriba y abajo para navegar por el historial y &lt;b&gt;Control+L&lt;/b&gt; para limpiar la pantalla.</translation>
+        <translation>Use las flechas arriba y abajo para navegar por el historial y &lt;b&gt;Control+L&lt;/b&gt; para vaciar la pantalla.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1612,37 +1628,37 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+127"/>
         <source>%1 B</source>
-        <translation type="unfinished"/>
+        <translation>%1 B</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 KB</source>
-        <translation type="unfinished"/>
+        <translation>%1 KB</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 MB</source>
-        <translation type="unfinished"/>
+        <translation>%1 MB</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 GB</source>
-        <translation type="unfinished"/>
+        <translation>%1 GB</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%1 m</source>
-        <translation type="unfinished"/>
+        <translation>%1 m</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>%1 h</source>
-        <translation type="unfinished"/>
+        <translation>%1 h</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 h %2 m</source>
-        <translation type="unfinished"/>
+        <translation>%1 h %2 m</translation>
     </message>
 </context>
 <context>
@@ -1657,12 +1673,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Enviar monedas</translation>
+        <translation>Enviar Rutanios</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation>Características de control de la moneda</translation>
+        <translation>Características de Coin Control</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1672,7 +1688,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation>Seleccionado automaticamente</translation>
+        <translation>Seleccionado automáticamente</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1688,7 +1704,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+22"/>
         <location line="+35"/>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -1698,7 +1714,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation>Cuantía:</translation>
+        <translation>Monto:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1708,7 +1724,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+19"/>
         <source>medium</source>
-        <translation type="unfinished"/>
+        <translation>medio</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -1723,7 +1739,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+19"/>
         <source>no</source>
-        <translation type="unfinished"/>
+        <translation>no</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -1733,12 +1749,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Cambio</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation type="unfinished"/>
+        <translation>dirección de cambio personalizada</translation>
     </message>
     <message>
         <location line="+106"/>
@@ -1753,12 +1769,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>Remove all transaction fields</source>
-        <translation type="unfinished"/>
+        <translation>Elimina todos los campos de transacciones</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation>Limpiar &amp;todo</translation>
+        <translation>Vaciar &amp;todo</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1778,7 +1794,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
         <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
-        <translation type="unfinished"/>
+        <translation>Introduce una dirección Rutanio (p.ej. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1788,7 +1804,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Copiar cuantía</translation>
+        <translation>Copiar monto</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1823,22 +1839,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+87"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;%1&lt;/b&gt; para %2 (%3)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Confirmar el envío de monedas</translation>
+        <translation>Confirmar el envío de Rutanios</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished"/>
+        <translation>Estás seguro que quieres enviar %1?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished"/>
+        <translation>y</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1868,17 +1884,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Error: Transaction creation failed!</source>
-        <translation type="unfinished"/>
+        <translation> Error: Falló creación de la transacción!</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the tokens in your wallet were already spent, such as if you used a copy of wallet.dat and tokens were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"/>
+        <translation>Error: La transacción ha sido rechazada. Esto puede ocurrir si algunas de sus monedas en la billetera ya se gastaron, por ejemplo, si se usa una copia del wallet.dat y se gastaron las monedas de la copia pero no se han marcado como gastadas aquí.</translation>
     </message>
     <message>
         <location line="+247"/>
         <source>WARNING: Invalid Rutanio address</source>
-        <translation type="unfinished"/>
+        <translation>ADVERTENCIA: Dirección Rutanio inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1888,7 +1904,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation type="unfinished"/>
+        <translation>ADVERTENCIA: dirección de cambio desconocida</translation>
     </message>
 </context>
 <context>
@@ -1896,7 +1912,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formulario</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1911,7 +1927,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+34"/>
         <source>The address to send the payment to (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
-        <translation type="unfinished"/>
+        <translation> La dirección a la cual desea enviar Rutas (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -1927,7 +1943,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+28"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished"/>
+        <translation>Elije dirección de la libreta de direcciones</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1947,12 +1963,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished"/>
+        <translation>Elimina este beneficiario</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
-        <translation type="unfinished"/>
+        <translation>Introduce una dirección Rutanio (p.ej. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
 </context>
 <context>
@@ -1976,13 +1992,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
-        <translation type="unfinished"/>
+        <translation>La dirección a firmar con un mensaje (p.ej. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+203"/>
         <source>Choose an address from the address book</source>
-        <translation type="unfinished"/>
+        <translation>Elije una dirección de la libreta de direcciones</translation>
     </message>
     <message>
         <location line="-193"/>
@@ -2013,18 +2029,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Rutanio address</source>
-        <translation type="unfinished"/>
+        <translation>Firma el mensaje para demostrar que posees esta dirección Rutanio.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation>Limpiar todos los campos de la firma de mensaje</translation>
+        <translation>Vaciar todos los campos de la firma de mensaje</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation>Limpiar &amp;todo</translation>
+        <translation>Vaciar &amp;todo</translation>
     </message>
     <message>
         <location line="-87"/>
@@ -2040,23 +2056,23 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
-        <translation type="unfinished"/>
+        <translation>La dirección firmada con un mensaje (p.ej. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified Rutanio address</source>
-        <translation type="unfinished"/>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Rutanio especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all verify message fields</source>
-        <translation>Limpiar todos los campos de la verificación de mensaje</translation>
+        <translation>Vaciar todos los campos de la verificación de mensaje</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a Rutanio address (e.g. RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</source>
-        <translation type="unfinished"/>
+        <translation>Introduce una dirección Rutanio (p.ej RUTAnuhHcs7jgLALRwYdj5KjbBp8QCjdbk)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2066,7 +2082,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Enter Rutanio signature</source>
-        <translation type="unfinished"/>
+        <translation>Introduce la firma Rutanio</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2091,7 +2107,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Se ha cancelado el desbloqueo del monedero. </translation>
+        <translation>Se ha cancelado el desbloqueo de la billetera.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2140,7 +2156,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../trafficgraphwidget.cpp" line="+75"/>
         <source>KB/s</source>
-        <translation type="unfinished"/>
+                <translation>Monitor de Tráfico</translation>
     </message>
 </context>
 <context>
@@ -2153,7 +2169,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>conflicted</source>
-        <translation type="unfinished"/>
+        <translation>en conflicto</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2274,7 +2290,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Generated tokens must mature 51 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation type="unfinished"/>
+        <translation>Las monedas generadas deben madurar 51 bloques antes de que puedan gastarse. Cuando generaste este bloque, este fue transmitido a la red para ser añadido a la cadena de bloques. Si falla al introducirse en la cadena, su estado cambiará a &quot;no aceptado&quot; y no se podrá gastar. Esto ocasionalmente puede ocurrir si otro nodo genera un bloque a unos segundos que el tuyo.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2314,7 +2330,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message numerus="yes">
         <location line="-36"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform> Abierto por %n bloque mas </numerusform><numerusform> Abierto por %n bloques mas </numerusform></translation>
     </message>
     <message>
         <location line="+67"/>
@@ -2375,27 +2391,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Offline</source>
-        <translation type="unfinished"/>
+        <translation>Sin conexión</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation type="unfinished"/>
+        <translation>Sin confirmar</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Confirmando (%1 de %2 confirmaciones recomendadas)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Conflicted</source>
-        <translation type="unfinished"/>
+        <translation>En conflicto</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Maturing (%1 confirmations, will be available after %2)</source>
-        <translation type="unfinished"/>
+        <translation>No vencidos (%1 confirmaciones. Estarán disponibles al cabo de %2)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2549,7 +2565,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Copiar cuantía</translation>
+        <translation>Copiar monto</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2569,7 +2585,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+138"/>
         <source>Export Transaction Data</source>
-        <translation type="unfinished"/>
+        <translation>Exportar datos de transacción</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2614,12 +2630,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Error al exportar</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>No se puede escribir en el archivo %1.</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -2637,7 +2653,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../walletmodel.cpp" line="+212"/>
         <source>Sending...</source>
-        <translation type="unfinished"/>
+        <translation>Enviando...</translation>
     </message>
 </context>
 <context>
@@ -2645,7 +2661,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
         <source>Rutanio version</source>
-        <translation type="unfinished"/>
+        <translation>versión Rutanio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,40 +2671,37 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Send command to -server or rutaniod</source>
-        <translation type="unfinished"/>
+        <translation>Envía un comando a -server o rutaniod</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>List commands</source>
-        <translation>Muestra comandos
-</translation>
+        <translation>Muestra comandos</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>Recibir ayuda para un comando
-</translation>
+        <translation>Recibir ayuda para un comando</translation>
     </message>
     <message>
         <location line="-145"/>
         <source>Options:</source>
-        <translation>Opciones:
-</translation>
+        <translation>Opciones:</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify configuration file (default: rutanio.conf)</source>
-        <translation type="unfinished"/>
+        <translation>Especifica un archivo de configuración (por defecto: rutanio.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify pid file (default: rutaniod.pid)</source>
-        <translation type="unfinished"/>
+        <translation>Especifica un archivo pid (por defecto: rutaniod.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Especificar archivo de monedero (dentro del directorio de datos)</translation>
+        <translation>Especificar archivo de Billetera (dentro del directorio de datos)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2708,7 +2721,17 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.com
 </source>
-        <translation type="unfinished"/>
+        <translation>>%s, debe registrar un rpcpassword en el archivo de configuración:
+%s
+Se recomienda usar una contraseña aleatoria como a continuación:
+rpcuser=rutaniorpc
+rpcpassword=%s
+(no necesita recordar esta contraseña, es sólo un ejemplo)
+Su Usuario y Contraseña NO DEBEN ser iguales.
+Si el archive no existe, cree uno con permiso especial para escribir exclusivamente por propietario.
+También se recomienda usar alertnotify para que se le notifique de problemas;
+Por ej.: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@rutanio.com
+</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -2718,12 +2741,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation type="unfinished"/>
+        <translation>Ajusta el tamaño de la base de datos del registro en megabytes (por defecto: 100)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Listen for connections on &lt;port&gt; (default: 6782 or testnet: 16782)</source>
-        <translation type="unfinished"/>
+        <translation>Escuchando conexiones en el puerto &lt;port&gt; (por defecto: 6782 o testnet: 16782)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2743,17 +2766,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+4"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation type="unfinished"/>
+        <translation>Enlazar a la dirección dada. Utilice la notación [host]:puerto para IPv6</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Query for peer addresses via DNS lookup, if low on addresses (default: 1 unless -connect)</source>
-        <translation type="unfinished"/>
+        <translation> Solicitar direcciones de pares  vía DNS lookup, en caso de insuficientes direcciones (Predeterminado: 1 unless -connect)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Always query for peer addresses via DNS lookup (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation> Solicitar siempre las direcciones de pares  via DNS lookup (Predeterminado:0)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2773,25 +2796,22 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+62"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 16174 or testnet: 25715)</source>
-        <translation type="unfinished"/>
+        <translation>Escuchar conexiones JSON-RPC en &lt;port&gt; (predeterminado: 16174 o testnet: 25715)</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Aceptar comandos consola y JSON-RPC
-</translation>
+        <translation>Aceptar comandos consola y JSON-RPC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Ejecutar en segundo plano como daemon y aceptar comandos
-</translation>
+        <translation>Ejecutar en segundo plano como daemon y aceptar comandos</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Usar la red de pruebas
-</translation>
+        <translation>Usar la red de pruebas</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2806,7 +2826,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+93"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation type="unfinished"/>
+        <translation>Establecer el tamaño máximo de las transacciones alta-prioridad/baja-comisión en bytes (por defecto: 27000)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -2816,7 +2836,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="-103"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Rutanio will not work properly.</source>
-        <translation type="unfinished"/>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo Rutanio no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -2856,12 +2876,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="-2"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Dirección -tor inválida: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Cantidad no válida para -reservebalance=&lt;amount&gt;</translation>
     </message>
     <message>
         <location line="-89"/>
@@ -2881,7 +2901,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+30"/>
         <source>Prepend debug output with timestamp</source>
-        <translation type="unfinished"/>
+        <translation>Prefijar salida de depuración con marca de tiempo</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -2896,7 +2916,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+34"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation type="unfinished"/>
+        <translation>Establecer el tamaño máximo de bloque en bytes (por defecto: 250000)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2926,48 +2946,47 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation type="unfinished"/>
+        <translation>Usar proxy para alcanzar a ver los servicios ocultos (por defecto: los mismos que -proxy)</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>Nombre de usuario para las conexiones JSON-RPC
-</translation>
+        <translation>Nombre de usuario para las conexiones JSON-RPC</translation>
     </message>
     <message>
         <location line="+54"/>
         <source>Verifying database integrity...</source>
-        <translation type="unfinished"/>
+        <translation>Verificando la integridad de la base de datos...</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Error: Wallet locked, unable to create transaction!</source>
-        <translation type="unfinished"/>
+        <translation>La billetera está bloqueada. No es posible iniciar transacciones.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation type="unfinished"/>
+        <translation> Error: Esta transacción requiere una tasa de cuando menos %s por su alto monto, complejidad o uso de fondos recién recibidos!.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Error: Transaction creation failed!</source>
-        <translation type="unfinished"/>
+        <translation> Error: Hubo una falla al crear la transacción</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: The transaction was rejected! This might happen if some of the tokens in your wallet were already spent, such as if you used a copy of wallet.dat and tokens were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"/>
+        <translation> Error: La transacción fue rechazada!  Esto puede ocurrir si algunos de los tokens en su billetera ya fueron gastados, por ej. si usó una copia de su wallet.dat y los tokens aparecen gastados en la copia mas no aquí.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Alerta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Información</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2982,65 +3001,62 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="-59"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>Contraseña para las conexiones JSON-RPC
-</translation>
+        <translation>Contraseña para las conexiones JSON-RPC</translation>
     </message>
     <message>
         <location line="-47"/>
         <source>Connect through SOCKS5 proxy</source>
-        <translation type="unfinished"/>
+        <translation>Connectar vía proxy SOCKS5</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Sincronizar el tiempo con otros nodos. Desactivar si el tiempo en su sistema es preciso, por ejemplo si usa sincronización con NTP (por defecto: 1)</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation type="unfinished"/>
+        <translation>Al crear transacciones, ignorar las entradas con valor inferior a esta (por defecto: 0.01)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Output debugging information (default: 0, supplying &lt;category&gt; is optional)</source>
-        <translation type="unfinished"/>
+        <translation>Información de depuración de salidas (predeterminado: 0, proveyendo &lt;categoría&gt; es opcional)</translation>   
     </message>
     <message>
         <location line="+2"/>
         <source>If &lt;category&gt; is not supplied, output all debugging information.</source>
-        <translation type="unfinished"/>
+        <translation> Si &lt;categoría&gt; no es provista, exportar toda información de depuración</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&lt;category&gt; can be:</source>
-        <translation type="unfinished"/>
+        <translation>&lt;categoría&gt; possible:</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly. This is intended for regression testing tools and app development.</source>
-        <translation type="unfinished"/>
+        <translation> Enter regression test mode, which uses a special chain in which blocks can be solved instantly. This is intended for regression testing tools and app development</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Permitir conexiones JSON-RPC desde la dirección IP especificada
-</translation>
+        <translation>Permitir conexiones JSON-RPC desde la dirección IP especificada</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Enviar comando al nodo situado en &lt;ip&gt; (predeterminado: 127.0.0.1)
-</translation>
+        <translation>Enviar comando al nodo situado en &lt;ip&gt; (predeterminado: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wait for RPC server to start</source>
-        <translation type="unfinished"/>
+        <translation>Aguarde a que arranque el servidor RPC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set the number of threads to service RPC calls (default: 4)</source>
-        <translation type="unfinished"/>
+        <translation>Determine el número de canales para atender las llamadas del RPC (predeterminado:4)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3050,107 +3066,102 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Ejecutar comando cuando una transacción del monedero cambia (%s en cmd se remplazará por TxID)</translation>
+        <translation>Ejecutar comando cuando una transacción de la billetera cambia (%s en cmd se remplazará por TxID)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Require a confirmations for change (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Requerir confirmaciones para cambio (por defecto: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation type="unfinished"/>
+        <translation>Ejecutar comando cuando una alerta relevante sea recibida (%s en la linea de comandos es reemplazado por un mensaje)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Actualizar el monedero al último formato</translation>
+        <translation>Actualizar la billetera al último formato</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Ajustar el número de claves en reserva &lt;n&gt; (predeterminado: 100)
-</translation>
+        <translation>Ajustar el número de claves en reserva &lt;n&gt; (predeterminado: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Volver a examinar la cadena de bloques en busca de transacciones del monedero perdidas</translation>
+        <translation>Volver a examinar la cadena de bloques en busca de transacciones de la billetera perdidas</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Cómo de minuciosa es la verificación del bloque (0-6, por defecto: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation type="unfinished"/>
+        <translation>Importar bloques desde el archivo externo blk000?.dat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Keep at most &lt;n&gt; MiB of unconnectable blocks in memory (default: %u)</source>
-        <translation type="unfinished"/>
+        <translation> Mantener un máximo de &lt;n&gt; MiB de bloques desconectados en memoria (predeterminado: %u)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>Usar OpenSSL (https) para las conexiones JSON-RPC
-</translation>
+        <translation>Usar OpenSSL (https) para las conexiones JSON-RPC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>Certificado del servidor (predeterminado: server.cert)
-</translation>
+        <translation>Certificado del servidor (predeterminado: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Clave privada del servidor (predeterminado: server.pem)
-</translation>
+        <translation>Clave privada del servidor (predeterminado: server.pem)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: Unsupported argument -socks found. Setting SOCKS version isn&apos;t possible anymore, only SOCKS5 proxies are supported.</source>
-        <translation type="unfinished"/>
+        <translation> Argumento  -socks no soportado. Ya no es posible establecer una versión de SOCKS , solo se admiten proxies SOCKS5</translation>
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Rutanio is shutting down.</source>
-        <translation type="unfinished"/>
+        <source>Initialization health check failed. Rutanio is shutting down.</source>
+        <translation>Ha fallado el chequeo inicial de salud del sistema. Cerrando cliente Rutanio</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Error loading block database</source>
-        <translation type="unfinished"/>
+        <translation>Ha ocurrido un error al cargar la base de datos de bloques</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Error: Billetera desbloqueada sólo para hacer &quot;stake&quot;, no es posible crear una transacción.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Error: Disk space is low!</source>
-        <translation type="unfinished"/>
+        <translation>Poco espacio de disco!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation type="unfinished"/>
+       <translation>Este es un software experimental. Úselo a su propio riesgo – no se recomienda usar para minado o para aplicaciones comerciales críticas</translation>
     </message>
     <message>
         <location line="-168"/>
         <source>This help message</source>
-        <translation>Este mensaje de ayuda
-</translation>
+        <translation>Este mensaje de ayuda</translation>
     </message>
     <message>
         <location line="+104"/>
         <source>Wallet %s resides outside data directory %s.</source>
-        <translation type="unfinished"/>
+        <translation>La billetera %s reside fuera del directorio de datos %s.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -3170,17 +3181,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="-10"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Error al cargar wallet.dat: el monedero está dañado</translation>
+        <translation>Error al cargar wallet.dat: la billetera está dañada</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Rutanio</source>
-        <translation type="unfinished"/>
+        <translation>Error cargando wallet.dat: La billetera requiere una nueva versión de Rutanio</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet needed to be rewritten: restart Rutanio to complete</source>
-        <translation type="unfinished"/>
+        <translation>La billetera necesita ser reescrita: reinicie Rutanio para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3215,12 +3226,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+58"/>
         <source>Sending...</source>
-        <translation type="unfinished"/>
+        <translation>Enviando...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>Cuantía no válida</translation>
+        <translation>Monto no válido</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3240,57 +3251,57 @@ for example: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@foo.
     <message>
         <location line="+124"/>
         <source>Unable to bind to %s on this computer. Rutanio is probably already running.</source>
-        <translation type="unfinished"/>
+        <translation>No se puede enlazar a %s en este equipo. Rutanio probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-101"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation type="unfinished"/>
+        <translation>Comisión por KB a añadir a las transacciones que envía</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Minimize weight consumption (experimental) (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation> Minimizar consumo por peso (experimental) (predeterminado: 0)</translation>   
     </message>
     <message>
         <location line="+8"/>
         <source>How many blocks to check at startup (default: 500, 0 = all)</source>
-        <translation type="unfinished"/>
+        <translation> Cantidad de bloques a chequear al inicio (predeterminado: 500, 0 = todos)</translation>   
     </message>
     <message>
         <location line="+14"/>
         <source>Acceptable ciphers (default: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</source>
-        <translation type="unfinished"/>
+        <translation> Cifrados aceptables (predeterminado: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</translation>   
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: Deprecated argument -debugnet ignored, use -debug=net</source>
-        <translation type="unfinished"/>
+        <translation>Alerta: Argumento no soportado -debugnet ignorado, use -debug=net</translation>   
     </message>
     <message>
         <location line="+8"/>
         <source>Invalid amount for -mininput=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Cantidad no válida para -mininput=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. Rutanio is probably already running.</source>
-        <translation type="unfinished"/>
+        <translation> No se puede asegurar el directorio de datos %s. Rutanio es probable ya esté corriendo.</translation>   
     </message>
     <message>
         <location line="+4"/>
         <source>Error initializing wallet database environment %s!</source>
-        <translation type="unfinished"/>
+        <translation>Error iniciando el ambiente de base de datos de la billetera%s!</translation>   
     </message>
     <message>
         <location line="+15"/>
         <source>Loading wallet...</source>
-        <translation>Cargando monedero...</translation>
+        <translation>Cargando Billetera...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>No se puede rebajar el monedero</translation>
+        <translation>No se puede rebajar versión de la billetera</translation>
     </message>
     <message>
         <location line="+1"/>

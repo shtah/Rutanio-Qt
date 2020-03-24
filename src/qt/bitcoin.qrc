@@ -78,8 +78,12 @@
         <file alias="el_GR">locale/bitcoin_el_GR.qm</file>
         <file alias="en">locale/bitcoin_en.qm</file>
         <file alias="eo">locale/bitcoin_eo.qm</file>
+        <file alias="es_AR">locale/bitcoin_es_AR.qm</file>
         <file alias="es_CL">locale/bitcoin_es_CL.qm</file>
         <file alias="es_DO">locale/bitcoin_es_DO.qm</file>
+        <file alias="es_CO">locale/bitcoin_es_CO.qm</file>
+        <file alias="es_MX">locale/bitcoin_es_MX.qm</file>
+        <file alias="es_UY">locale/bitcoin_es_UY.qm</file>
         <file alias="es">locale/bitcoin_es.qm</file>
         <file alias="fa">locale/bitcoin_fa.qm</file>
         <file alias="fi">locale/bitcoin_fi.qm</file>
