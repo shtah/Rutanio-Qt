@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="es_CO" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -273,7 +273,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+82"/>
         <source>Rutanio will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your tokens from being stolen by malware infecting your computer.</source>
-        <translation>Rutanio cerrará para terminar el proceso de encripción. Recuerde que el cifrado de su billetera no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <translation>Rutanio cerrará para terminar el proceso de encripción. Recuerde que el encriptado de su billetera no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -286,7 +286,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Ha fallado la encripción de la billetera debido a un error interno. La billetera no ha sido cifrada.</translation>
+        <translation>Ha fallado la encripción de la billetera debido a un error interno. La billetera no ha sido encriptada.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -304,7 +304,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La contraseña introducida para descifrar la billetera es incorrecta.</translation>
+        <translation>La contraseña introducida para desencriptar la billetera es incorrecta.</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -422,7 +422,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-13"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation>Cifrar o descifrar la billetera</translation>
+        <translation>Encriptar o desencriptar la billetera</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -432,7 +432,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Cambiar la contraseña utilizada para el cifrado de la billetera</translation>
+        <translation>Cambiar la contraseña utilizada para el encriptado de la billetera</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -620,17 +620,17 @@ Dirección: %4
     <message>
         <location line="+9"/>
         <source>Wallet is &lt;b&gt;not encrypted&lt;/b&gt;</source>
-        <translation>La billetera no está cifrada</translation>
+        <translation>La billetera no está encriptada</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>La billetera está &lt;b&gt;cifrada&lt;/b&gt; y actualmente &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
+        <translation>La billetera está &lt;b&gt;encriptada&lt;/b&gt; y actualmente &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>La billetera está &lt;b&gt;cifrada&lt;/b&gt; y actualmente &lt;b&gt;bloqueada&lt;/b&gt;</translation>
+        <translation>La billetera está &lt;b&gt;encriptada&lt;/b&gt; y actualmente &lt;b&gt;bloqueada&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -3271,7 +3271,7 @@ Por ej.: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@rutanio.
     <message>
         <location line="+14"/>
         <source>Acceptable ciphers (default: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</source>
-        <translation> Cifrados aceptables (predeterminado: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</translation>   
+        <translation> Encriptados aceptables (predeterminado: TLSv1.2+HIGH:TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!3DES:@STRENGTH)</translation>   
     </message>
     <message>
         <location line="+3"/>
@@ -3316,7 +3316,7 @@ Por ej.: alertnotify=echo %%s | mail -s &quot;Rutanio Alert&quot; admin@rutanio.
     <message>
         <location line="+2"/>
         <source>Done loading</source>
-        <translation>Generado pero no aceptado</translation>
+        <translation>Billetera lista para usar</translation>
     </message>
     <message>
         <location line="-159"/>
