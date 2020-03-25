@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Rutanio-Qt
+Comment=Rutanio Staking Wallet
+Exec=AppRun %F
+Type=Application
+Icon=rutanio
+MimeType=x-scheme-handler/rutanio;
+Categories=Finance;Network;
+Name[en_US]=rutanio-qt.desktop
