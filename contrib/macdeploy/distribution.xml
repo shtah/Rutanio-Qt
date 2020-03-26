@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installer-gui-script minSpecVersion="1">
+    <title>Rutanio-Qt</title>
+    <background file="rutanio-qt-background-pkg.jpg" alignment="left" scaling="tofit"/>
+    <welcome file="welcome-pkg.rtf"/>
+    <readme file="readme-pkg.rtf"/>
+    <license file="license-pkg.rtf"/>    
+    <pkg-ref id="co.rutax.rutanio-qt"/>
+    <options customize="never" require-scripts="false"/>
+    <choices-outline>
+        <line choice="default">
+            <line choice="co.rutax.rutanio-qt"/>
+        </line>
+    </choices-outline>
+    <choice id="default"/>
+    <choice id="co.rutax.rutanio-qt" visible="false">
+        <pkg-ref id="co.rutax.rutanio-qt"/>
+    </choice>
+    <pkg-ref id="co.rutax.rutanio-qt" onConclusion="none">Rutanio-Qt.pkg</pkg-ref>
+</installer-gui-script>
