@@ -110,10 +110,10 @@ public:
         assert(hashGenesisBlock == uint256("0x00000347c656a618f9bfef80a14fa66cf26e34ed4caeba0e3f072eb8b9408ee6"));
         assert(genesis.hashMerkleRoot == uint256("0xa74f9cb5ad97977b1e1079658f8290aa1e6122ee50df327a7e39480f94237c54"));
 
-        vSeeds.push_back(CDNSSeedData("Seednode1", "seednode1.rutan.cloud"));
-        vSeeds.push_back(CDNSSeedData("Seednode2", "seednode2.rutan.network"));
-        vSeeds.push_back(CDNSSeedData("Seednode3", "seednode3.rutan.cloud"));
-        vSeeds.push_back(CDNSSeedData("Seednode4", "seednode4.rutan.network"));
+        vSeeds.push_back(CDNSSeedData("Seednode1", "seednode1.rutax.cloud"));
+        vSeeds.push_back(CDNSSeedData("Seednode2", "seednode2.rutax.network"));
+        vSeeds.push_back(CDNSSeedData("Seednode3", "seednode3.rutax.cloud"));
+        vSeeds.push_back(CDNSSeedData("Seednode4", "seednode4.rutax.network"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 60);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 122);
