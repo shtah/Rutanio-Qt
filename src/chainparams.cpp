@@ -76,8 +76,8 @@ public:
         pchMessageStart[2] = 0x52;
         pchMessageStart[3] = 0x09;
         vAlertPubKey = ParseHex("04cac64149c07f3daa817f56f7d29aba28098e64ee01749f935613d586b43041582816236d31f26c0ec1921688e7202c0fa7a157ad555763896b890d8daac02f39");
-        nDefaultPort = 6782;
-        nRPCPort = 6781;
+        nDefaultPort = 18105;
+        nRPCPort = 18104;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
 
         // Build the genesis block. Note that the output of the genesis coinbase cannot
@@ -88,8 +88,8 @@ public:
         //    CTxIn(COutPoint(0000000000, 4294967295), coinbase 00012a24323020466562203230313420426974636f696e2041544d7320636f6d6520746f20555341)
         //    CTxOut(empty)
         //  vMerkleTree: 12630d16a9
-        const char* pszTimestamp = "https://edition.cnn.com/2019/07/28/sport/tour-de-france-bernal-colombia-spt-intl/index.html";
-        int64_t genesisTime = 1564350120;                // 2019-07-28 21:42:00 UTC
+        const char* pszTimestamp = "Bloomberg 11/30/2020 Bitcoin Is Winning the Covid-19 Monetary Revolution";
+        int64_t genesisTime = 1607706917;                // 2019-07-28 21:42:00 UTC
         std::vector<CTxIn> vin;
         vin.resize(1);
         vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -103,27 +103,27 @@ public:
         genesis.nVersion = 1;
         genesis.nTime    = genesisTime;
         genesis.nBits    = bnProofOfWorkLimit.GetCompact();
-        genesis.nNonce   = 288859;
+        genesis.nNonce   = 1752306;
 
         hashGenesisBlock = genesis.GetHash();
 
-        assert(hashGenesisBlock == uint256("0x00000347c656a618f9bfef80a14fa66cf26e34ed4caeba0e3f072eb8b9408ee6"));
-        assert(genesis.hashMerkleRoot == uint256("0xa74f9cb5ad97977b1e1079658f8290aa1e6122ee50df327a7e39480f94237c54"));
+        assert(hashGenesisBlock == uint256("0x000002e1a5c2361c43f5d76b7d77cd52c2866b391c59867ad79de49795ed7361"));
+        assert(genesis.hashMerkleRoot == uint256("0x22ef4ec3f51e4b1d8266bb3dcff45b32647a751085d7174d68f7d3ff654206bf"));
 
-        vSeeds.push_back(CDNSSeedData("Seednode1", "seednode1.rutax.cloud"));
-        vSeeds.push_back(CDNSSeedData("Seednode2", "seednode2.rutax.network"));
-        vSeeds.push_back(CDNSSeedData("Seednode3", "seednode3.rutax.cloud"));
-        vSeeds.push_back(CDNSSeedData("Seednode4", "seednode4.rutax.network"));
+        vSeeds.push_back(CDNSSeedData("Seednode1", "mn1.uh420058.ukrdomen.com"));
+        vSeeds.push_back(CDNSSeedData("Seednode2", "mn2.uh420058.ukrdomen.com"));
+        vSeeds.push_back(CDNSSeedData("Seednode3", "mn3.uh420058.ukrdomen.com"));
+        vSeeds.push_back(CDNSSeedData("Seednode4", "mn4.uh420058.ukrdomen.com"));
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 60);
-        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 122);
-        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1, (60+128));
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 76);
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 141);
+        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1, (76+141));
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x04)(0x88)(0xB2)(0x1E).convert_to_container<std::vector<unsigned char> >();
         base58Prefixes[EXT_SECRET_KEY] = boost::assign::list_of(0x04)(0x88)(0xAD)(0xE4).convert_to_container<std::vector<unsigned char> >();
 
         convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
-        nLastPOWBlock = 45000;
+        nLastPOWBlock = 675;
     }
 
     virtual const CBlock& GenesisBlock() const { return genesis; }

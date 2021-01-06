@@ -996,14 +996,14 @@ static CBigNum GetProofOfStakeLimit(int nHeight)
 // miner's coin base reward
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
-	int64_t PreMine = 700000000 * COIN;
-    if(pindexBest->nHeight == 1){return PreMine;} else {return 200*COIN + nFees;}
+	int64_t PreMine = 8734567 * COIN;
+    if(pindexBest->nHeight == 1){return PreMine;} else {return 1*COIN + nFees;}
 }
 
 // miner's coin stake reward
 int64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, int64_t nCoinAge, int64_t nFees)
 {
-    return (20 * COIN) + nFees;
+    return (1 * COIN) + nFees;
 }
 
 static const int64_t nTargetTimespan = 16 * 60;  // 16 mins
